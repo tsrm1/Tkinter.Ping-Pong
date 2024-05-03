@@ -1,7 +1,7 @@
 from tkinter import *
 import random
 import pygame
-import os
+
 
 WIDTH, HEIGHT = 1600, 800
 BALL_DIAMETR = 40
